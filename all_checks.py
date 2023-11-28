@@ -3,3 +3,6 @@ def check_reboot():
     
 def testfunction():
     print("PC jor")
+
+def print():
+    print("Print")
