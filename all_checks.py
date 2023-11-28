@@ -6,3 +6,6 @@ def testfunction():
 
 def print():
     print("Print")
+
+def add_check():
+    print("Check is complete!")
