@@ -18,3 +18,6 @@ def blah():
     
 def add_empty_function():
     pass
+
+def add():
+    pass
