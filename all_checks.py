@@ -9,3 +9,6 @@ def print():
 
 def add_check():
     print("Check is complete!")
+
+def last_check():
+    print("Last check is complete")
