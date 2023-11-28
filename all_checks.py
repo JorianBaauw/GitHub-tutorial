@@ -15,3 +15,6 @@ def last_check():
 
 def blah():
     print("Blah")
+    
+def add_empty_function():
+    pass
