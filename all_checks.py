@@ -6,4 +6,3 @@ def testfunction():
 
 def test():
     print("Testfunctie")
-    
