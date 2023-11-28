@@ -3,3 +3,8 @@ def check_reboot():
     
 def testfunction():
     pass
+
+def add():
+    x = 1+2
+
+    
