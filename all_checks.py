@@ -12,3 +12,6 @@ def add_check():
 
 def last_check():
     print("Last check is complete")
+
+def blah():
+    print("Blah")
